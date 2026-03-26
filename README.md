@@ -25,7 +25,7 @@ The project focuses on delivering a clean, stable, and functional solution withi
 - Django REST Framework
 - django-filter
 - django-cors-headers
-- SQLite
+- PostgreSql
 
 ### Frontend
 - React.js
