@@ -13,7 +13,7 @@ The application allows an admin to:
 - View attendance records
 - Filter employee and attendance data
 
-The project focuses on delivering a clean, stable, and functional solution within a limited time scope, without over-engineering.
+The project focuses on delivering a clean, stable, and functional solution within a limited time scope
 
 ---
 
