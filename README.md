@@ -43,5 +43,4 @@ hrms-lite/
 ├── employees/
 ├── hrms_lite/
 ├── frontend/
-├── requirements.txt
 └── README.md
